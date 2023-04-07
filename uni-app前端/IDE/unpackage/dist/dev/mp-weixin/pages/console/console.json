@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-row": "/node-modules/uview-ui/components/u-row/u-row",
+    "u-button": "/node-modules/uview-ui/components/u-button/u-button",
+    "u-field": "/node-modules/uview-ui/components/u-field/u-field"
+  }
+}
